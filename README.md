@@ -1,4 +1,4 @@
-# Practica-en-HTML_elementos_sem-nticos_mejia_suarez_1197_3W
+# Practica-en-HTML_elementos_semanticos_mejia_suarez_1197_3W
 # html 1
 ![image](https://github.com/user-attachments/assets/e1b755d0-a86d-485a-97f8-2a0d6cca5db5)
 # resultado:
